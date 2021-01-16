@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Footfall Counter</string>
+    <string name="large_text">
+        Select a place to know footfall count
+    </string>
+    <string name="button_text">
+        Library
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
